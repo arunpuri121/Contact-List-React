@@ -1,2 +1,2 @@
 # Contact_List
-Skill test of React Module of Coding Ninjas
+Contact List App Made with the help of React.
